@@ -1,5 +1,5 @@
 package model;
-
+修改2
 public class Book {
 	private int id;
 	private int aid;
